@@ -11,7 +11,8 @@ O **Scapy Network Analyzer & Security Suite** é uma aplicação desktop complet
 
 ## 📸 Interface do Aplicativo
 
-https://github.com/davidfellipereis/Analisador-de-Rede-Scapy/blob/main/Tela%20do%20Aplicativo.png?raw=true
+<img width="811" height="675" alt="image" src="https://github.com/user-attachments/assets/b35da017-0c87-442a-b8e5-642cc029f543" />
+
 
 ---
 
